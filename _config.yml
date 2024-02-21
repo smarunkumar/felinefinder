@@ -1,6 +1,6 @@
 title: MEOWSOME
 logo: /assets/img/cat-staring.jpg
 description: One cat just leads to another.
-show_downloads: false
+show_downloads: True
 google_analytics:
 theme: jekyll-theme-minimal
